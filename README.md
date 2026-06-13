@@ -4,4 +4,4 @@ El documento obtenido, brinda 10 preguntas planteadas y que posteriormente se co
 ## Obtencion de bases de datos
 Para obtener los datos para que funcione el codigo RMarkdown, se descargan la base de datos por el sitio oficial de INEGI en la sección de la ENVIPE, en la pestaña microdatos: https://www.inegi.org.mx/programas/envipe/2025/#microdatos
 Posteriormente se descarga el archivo .CSV.
-![Gráfica de distribución](imagenes/Screenshot 2026-06-12 210317.png)
+![Gráfica de distribución](imagenes/Screenshot2026-06-12210317.png)

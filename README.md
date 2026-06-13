@@ -20,4 +20,4 @@ Posteriormente en el archivo "ProyectoFinal.Rmd" se coloca la direccion de la ca
 
 En la sección asset descarga el archivo "qro.csv" en el que se obtiene el mapa, de igual manera se copia la direccion de la carpeta en el que se encuentra almacenado el archivo "qro.csv" y se pone la direccion en las comillas del directorio: "directorio_mapa"
 
-![](imagenes/Screenshot2026-06-12213411.png)
+![](imagenes/Screenshot2026-06-12214520.png)

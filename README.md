@@ -14,3 +14,8 @@ Al terminar de descargar el archivo .zip, se hace una carpeta que contenga los d
 
 Posteriormente en el archivo "ProyectoFinal.Rmd" se coloca la direccion de la carpeta "carpeta_2025" para el directorio "directorio2025", de la misma manera para los años restantes, se descarga la base de datos del año que corresponde y se repite el proceso: 
 
+![](imagenes/Screenshot2026-06-12213057.png)
+
+![](imagenes/Screenshot2026-06-12213411.png)
+
+De igual manera 
